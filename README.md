@@ -11,7 +11,6 @@ To analyze user engagement on an Instagram-like platform and answer real busines
 
 ## 🛠️ Tools & Technologies
 - **SQL** (MySQL Workbench 8.0.39.0)
-- **Excel** (for output formatting and dashboards)
 - Data source: Simulated Instagram database (posts, users, hashtags)
 
 ---
